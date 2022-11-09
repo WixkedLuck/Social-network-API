@@ -1,0 +1,20 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Social network API mock-up",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WixkedLuck/Social-network-API.git"
+  },
+  "author": "WixkedLuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WixkedLuck/Social-network-API/issues"
+  },
+  "homepage": "https://github.com/WixkedLuck/Social-network-API#readme"
+}
