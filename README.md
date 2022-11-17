@@ -36,8 +36,8 @@ The purpose of this project is to show off a backend api web application to simu
 - WixkedLuck
 
 
-# Video 
-
+# Video link
+https://drive.google.com/file/d/1Y33DO7t5_qaUQAT7W_nIYTwrVPBMpvYG/view
 
 
 
